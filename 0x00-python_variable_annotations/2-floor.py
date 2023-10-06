@@ -5,7 +5,5 @@ task 2 module
 
 
 def floor(n: float) -> int:
-    '''
-    function that takes a float and return floored 
-    '''
+    '''function that takes a float and return floored'''
     return int(n)
