@@ -1,1 +1,1 @@
-# 0x00-python_variable_annotations
+# Learning backend technologies with Python.
