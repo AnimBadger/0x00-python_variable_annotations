@@ -1,6 +1,6 @@
 #!/usr/bin//env python3
 '''task 6 module'''
-from typing import Union, List
+from typing import List, Union
 
 
 def sum_mixed_list(mxd_lst: List[Union[float, int]]) -> float:
